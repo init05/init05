@@ -1,6 +1,6 @@
 ### Hi there, I'm Valerii - aka init05 👋 
 
-## I'm a Student, Boxer and Developer!!
+## I'm a Student and Developer!!
 
 - 🔭 I have just made my first injector!
 - 🌱 I’m currently working on my greatest project!
