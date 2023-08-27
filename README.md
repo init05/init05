@@ -33,9 +33,6 @@
 
 ---
 
-### Spotify:
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1o66dd0og8tymfpv607evystc&cover_image=true&theme=natemoo-re&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 [instagram]: https://instagram.com/init_05
