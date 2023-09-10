@@ -2,10 +2,10 @@
 
 ## I'm a Student and Developer!!
 
-- 🔭 I have just made my first injector!
+- 🔭 I have just made my first FullStack solo Project
 - 🌱 I’m currently working on my greatest project!
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: I'm looking forward to learn programing on C#
+- 🥅 2023 Goals: I'm looking forward to learn Solidity
 
 ### Connect with me:
 
