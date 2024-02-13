@@ -1,16 +1,16 @@
 ### Hi there, I'm Valerii - aka init05 👋 
 
-## I'm a Student and Developer!!
+## I'm a Full Stack Web Developer!
 
-- 🔭 I have just made my first FullStack solo Project
-- 🌱 I’m currently working on my greatest project!
+- 🔭 Willing to learn new technologies!
+- 🌱 I’m currently doing my pet project called "quest life"
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: I'm looking forward to learn Solidity
+- 🥅 2024 Goals: To do something cool for mankind
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -36,4 +36,4 @@
 
 
 [instagram]: https://instagram.com/init_05
-[linkedin]: https://www.linkedin.com/in/valeriy-borshchev-723747228/
+[linkedin]: https://www.linkedin.com/in/dali05/
